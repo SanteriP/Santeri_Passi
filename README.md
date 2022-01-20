@@ -1,2 +1,2 @@
-# Santeri_Passi_Static_HTML
+# Santeri_Passi
  Repository for Static HTML HAMK
