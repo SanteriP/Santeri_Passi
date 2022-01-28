@@ -1,0 +1,33 @@
+header, footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+article {
+    background-color: cyan;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+}
+
+main {
+    display: flex;
+}
+
+nav {
+    padding: 15px 30px 15px 0px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
